@@ -1,1 +1,1 @@
-Data from evaluations reported at Empirical Software Engineering
+Data from evaluations reported at Software Quality Journal
