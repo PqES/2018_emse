@@ -1,1 +1,1 @@
-Data from evaluations reported at Software Quality Journal
+Data from evaluations reported at J.UCS
